@@ -69,3 +69,30 @@ ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
 ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
 ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
 ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
