@@ -18,27 +18,33 @@ class Rov:
         self.i2cbus = None
         self.motor = None
 
-    def intialize_interfaces(self):
+    def initialize_interfaces(self):
         self.i2cbus = I2cBus(1)
 
     def initialize_hardware(self):
-        self.motor = Revolver(position=0, bus=self.i2cbus)
+        self.motor = Revolver(address=11,position=0, bus=self.i2cbus)
         self.motor.enable_motor()
 
         time.sleep(5)
 
-        print(self.motor.get_mc_status())
+#        print(self.motor.get_mc_status())
 
-        self.motor.set_velocity(2000)
+ #       quit()
+
+        self.motor.set_speed(2000)
         time.sleep(5)
-        self.motor.set_velocity(-2000)
+        self.motor.set_speed(-2000)
         time.sleep(5)
-        self.motor.set_velocity(0)
+        self.motor.set_speed(0)
         time.sleep(5)
 
         self.motor.disable_motor()
 
-        print(self.motor.get_mc_status())
+  #      print(self.motor.get_mc_status())
 
     def main_loop(self):
         self.logger.info("running!")
+
+rov = Rov()
+rov.initialize_interfaces()
+rov.initialize_hardware()

@@ -45,7 +45,7 @@ class Revolver:
     def set_speed(self, velocity_to_set: float) -> bool:
         if self.motor_enabled and self.motor_brake_enabled == 0:
             try:
-                if math.fabs(velocity_to_set) <= self.max_velocity:
+                if math.fabs(velocity_to_set) <= self._max_velocity:
                     self.set_velocity = int(velocity_to_set)
             except ValueError:
                 self.logger.error("Invalid velocity type")
@@ -69,9 +69,9 @@ class Revolver:
         self.motor_brake_enabled = 0
         self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)
 
-    def _send_mc_payload(self, velocity: float, enable_cmd: int, brake_cmd: int) -> bool:
+    def _send_mc_payload(self, velocity: int, enable_cmd: int, brake_cmd: int) -> bool:
         # compile velocity bytes
-        velocity_bytes = bytearray(math.fabs(velocity).to_bytes(2, 'big'))
+        velocity_bytes = bytearray(int(math.fabs(velocity)).to_bytes(2, 'big'))
         # set direction bit
         direction = 1 if velocity > 0 else 0
         # compile command byte
@@ -93,4 +93,4 @@ class Revolver:
         return self.get_mc_status([0])  # awake bit
 
     def get_mc_status(self) -> list:
-        return self.bus.read_bytes(self, addr=self.address, register=0, num_bytes=8)
+        return self.bus.read_bytes(addr=self.address, register=0, num_bytes=8)

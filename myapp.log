@@ -1,0 +1,71 @@
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.read_i2c_block_data() takes no keyword arguments
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.read_i2c_block_data() takes no keyword arguments
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments
+ERROR:Interfaces.i2cbus:SMBus.write_block_data() takes no keyword arguments

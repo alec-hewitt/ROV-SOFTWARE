@@ -65,7 +65,7 @@ class I2cBus:
         Returns: (list) bytes received from i2c bus
         """
         try:
-            return self.bus.read_i2c_block_data(i2c_addr=addr, register=register, length=num_bytes)
+            return self.bus.read_i2c_block_data(addr=addr, register=register, length=num_bytes)
         except Exception as err:
             self.logger.error(err)
             return []
