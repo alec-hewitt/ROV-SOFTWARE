@@ -27,16 +27,16 @@ class Rov:
 
         time.sleep(5)
 
-#        print(self.motor.get_mc_status())
+        print(self.motor.get_mc_status())
 
  #       quit()
 
-        self.motor.set_speed(2000)
+        self.motor.set_speed(3500)
         time.sleep(5)
-        self.motor.set_speed(-2000)
+        self.motor.set_speed(-3500)
         time.sleep(5)
         self.motor.set_speed(0)
-        time.sleep(5)
+        time.sleep(1)
 
         self.motor.disable_motor()
 

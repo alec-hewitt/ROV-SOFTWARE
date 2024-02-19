@@ -25,7 +25,7 @@ class Revolver:
         # rov parameters
         self.position = position
         # protected variables
-        self._max_velocity = 3500
+        self._max_velocity = 4000
 
     def set_max_velocity(self, new_maximum: int):
         try:

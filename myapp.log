@@ -185,3 +185,85 @@ INFO:__main__:hello rov
 INFO:__main__:running!
 INFO:Interfaces.i2cbus:hello i2c bus
 INFO:Drivers.Revolver:hello revolver
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
+INFO:__main__:hello rov
+INFO:__main__:running!
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.Revolver:hello revolver
+ERROR:Interfaces.i2cbus:[Errno 5] Input/output error
