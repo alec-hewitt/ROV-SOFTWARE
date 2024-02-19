@@ -5,6 +5,15 @@ import time
 
 logging.basicConfig(filename='myapp.log', level=logging.INFO)
 
+"""
+Motor Controller Addresses:
+T0: 00100000: 0x20, 32 - 7-bit 0x10
+T1: 00100010: 0x22, 34 - 7-bit 0x11
+T2: 00100100: 0x24, 36 - 7-bit 0x12
+T3: 00100110: 0x26, 38 - 7-bit 0x13
+T4: 00101000: 0x28, 40 - 7-bit 0x14
+T5: 00101010: 0x2A, 42 - 7-bit 0x15
+"""
 
 class Rov:
 
