@@ -22,7 +22,7 @@ class Rov:
         self.i2cbus = I2cBus(1)
 
     def initialize_hardware(self):
-        self.motor = Revolver(address=11,position=0, bus=self.i2cbus)
+        self.motor = Revolver(address=0x11,position=0, bus=self.i2cbus)
         self.motor.enable_motor()
 
         time.sleep(5)

@@ -43,18 +43,21 @@ print(v_bytes[1])
 mc_commands = [byte0, 0, 0,4]
 
 try:
-    i2cbus.bus.write_block_data(0x11, 0x00, mc_commands)
+    i2cbus.bus.write_block_data(0x22, 0x00, mc_commands)
 except Exception as e:
     print(e)
+
+
 
 time.sleep(1)
 
 mc_commands = [byte0, v_bytes[0], v_bytes[1],4]
 
 try:
-    i2cbus.bus.write_block_data(0x11, 0x00, mc_commands)
+    i2cbus.bus.write_block_data(0x22, 0x00, mc_commands)
 except Exception as e:
     print(e)
+
 
 
 i2cbus.close_bus()

@@ -52,7 +52,7 @@ class I2cBus:
         print(offset)
         print(payload)
         try:
-            self.bus.write_block_data(addr, offset, payload)
+            self.bus.write_block_data(0x22, offset, payload)
             return True
         except Exception as err:
             self.logger.error(err)

@@ -70,6 +70,7 @@ class Revolver:
         self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)
 
     def _send_mc_payload(self, velocity: int, enable_cmd: int, brake_cmd: int) -> bool:
+
         # compile velocity bytes
         velocity_bytes = bytearray(int(math.fabs(velocity)).to_bytes(2, 'big'))
         # set direction bit
@@ -86,7 +87,9 @@ class Revolver:
         peripheral_command_byte = 0x00
 
         mc_payload = [command_byte, velocity_bytes[0], velocity_bytes[1], peripheral_command_byte]
-
+        print("address")
+        print(self.address)
+        print(hex(self.address))
         return self.bus.write_bytes(addr=self.address, offset=0, payload=mc_payload)
 
     def check_status(self) -> list:
