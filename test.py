@@ -17,7 +17,7 @@ class I2CBUS():
 i2cbus = I2CBUS(1)
 
 # MC COMMANDS
-set_v = 0
+set_v = 2000
 
 v_bytes = bytearray(int(math.fabs(set_v)).to_bytes(2, 'big'))
 run = 1
@@ -43,7 +43,7 @@ print(v_bytes[1])
 mc_commands = [byte0, 0, 0,4]
 
 try:
-    i2cbus.bus.write_block_data(0x22, 0x00, mc_commands)
+    i2cbus.bus.write_block_data(0x10, 0x00, mc_commands)
 except Exception as e:
     print(e)
 
@@ -54,10 +54,17 @@ time.sleep(1)
 mc_commands = [byte0, v_bytes[0], v_bytes[1],4]
 
 try:
-    i2cbus.bus.write_block_data(0x22, 0x00, mc_commands)
+    i2cbus.bus.write_block_data(0x10, 0x00, mc_commands)
 except Exception as e:
     print(e)
 
+time.sleep(5)
+
+mc_commands = [0,0,0,4]
+try:
+    i2cbus.bus.write_block_data(0x10, 0x00, mc_commands)
+except Exception as e:
+    print(e)
 
 
 i2cbus.close_bus()

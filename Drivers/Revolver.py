@@ -27,6 +27,8 @@ class Revolver:
         # protected variables
         self._max_velocity = 4000
 
+        self.motor_awake = 0
+
     def set_max_velocity(self, new_maximum: int):
         try:
             if new_maximum <= 3500:
@@ -36,14 +38,22 @@ class Revolver:
 
     def enable_motor(self):
         self.motor_enabled = 1
-        self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)
+        if(self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)):
+            self.motor_awake = 1
+            print("Motor {} enabled.".format(self.position))
+        else:
+            print("Unable to enable motor {}".format(self.position))
 
     def disable_motor(self):
         self.motor_enabled = 0
-        self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)
+        if(self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)):
+            self.motor_awake = 0
+            print("Motor {} disabled.".format(self.position))
+        else:
+            print("Unable to disable motor {}".format(self.position))
 
     def set_speed(self, velocity_to_set: float) -> bool:
-        if self.motor_enabled and self.motor_brake_enabled == 0:
+        if self.motor_enabled and self.motor_brake_enabled == 0 and self.motor_awake == 1:
             try:
                 if math.fabs(velocity_to_set) <= self._max_velocity:
                     self.set_velocity = int(velocity_to_set)
@@ -56,9 +66,11 @@ class Revolver:
                 enable_cmd=self.motor_enabled,
                 brake_cmd=self.motor_brake_enabled
             )
+            print("Motor {} set speed to {} success.".format(self.position, velocity_to_set))
             return 1
         else:
-            self.logger.error("Cannot set speed. Motor is disabled or in brake mode.")
+            self.logger.error("Cannot set speed. Motor {} is disabled or in brake mode.".format(self.position))
+            print("Cannot set speed. Motor {} is disabled or in brake mode.".format(self.position))
             return 0
 
     def engage_brake_motor(self):
@@ -87,9 +99,6 @@ class Revolver:
         peripheral_command_byte = 0x00
 
         mc_payload = [command_byte, velocity_bytes[0], velocity_bytes[1], peripheral_command_byte]
-        print("address")
-        print(self.address)
-        print(hex(self.address))
         return self.bus.write_bytes(addr=self.address, offset=0, payload=mc_payload)
 
     def check_status(self) -> list:

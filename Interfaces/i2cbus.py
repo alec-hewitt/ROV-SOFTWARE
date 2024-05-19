@@ -48,11 +48,9 @@ class I2cBus:
 
         Returns: (bool) True if write successful, False otherwise
         """
-        print(addr)
-        print(offset)
-        print(payload)
         try:
-            self.bus.write_block_data(0x22, offset, payload)
+            print(addr)
+            self.bus.write_block_data(addr, offset, payload)
             return True
         except Exception as err:
             self.logger.error(err)
