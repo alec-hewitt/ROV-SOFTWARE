@@ -1,0 +1,6 @@
+pyproject.toml
+rov_software.egg-info/PKG-INFO
+rov_software.egg-info/SOURCES.txt
+rov_software.egg-info/dependency_links.txt
+rov_software.egg-info/requires.txt
+rov_software.egg-info/top_level.txt

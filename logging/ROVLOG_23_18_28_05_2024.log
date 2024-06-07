@@ -1,0 +1,297 @@
+INFO:__main__:Started logger
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Interfaces.Surface:Attemping to bind to client
+INFO:Interfaces.TCP:Connected by ('192.168.1.9', 53688)
+INFO:Interfaces.Surface:Done bind to client
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
