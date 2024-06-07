@@ -1,0 +1,5 @@
+INFO:__main__:Started logger
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Drivers.PDB:PDB Initialized
+INFO:Drivers.PDB:PDB Ready
+INFO:Interfaces.Surface:Attemping to bind to client

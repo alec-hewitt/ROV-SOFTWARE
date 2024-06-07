@@ -49,12 +49,17 @@ class I2cBus:
         Returns: (bool) True if write successful, False otherwise
         """
         try:
-            print(addr)
             self.bus.write_block_data(addr, offset, payload)
             return True
         except Exception as err:
             self.logger.error(err)
+            print(err)
             return False
+
+    def read_register(self, addr: int, register: int, num_bytes: int) -> list:
+        read = []
+        r = self.read_bytes(addr, register, num_bytes)
+        return r
 
     def read_bytes(self, addr: int, register: int, num_bytes: int) -> list:
         """
@@ -66,7 +71,10 @@ class I2cBus:
         Returns: (list) bytes received from i2c bus
         """
         try:
-            return self.bus.read_i2c_block_data(addr, register, num_bytes)
+            p = self.bus.read_i2c_block_data(addr, register, num_bytes)
+            print(p)
+            return p
         except Exception as err:
+            print(err)
             self.logger.error(err)
             return []

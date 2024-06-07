@@ -1,1 +1,1 @@
-{"battery_voltage": 42, "temp": 30}
+{"surface_error": 0, "battery_voltage": 42, "temp": 30, "t0_velocity": 0, "t0_enabled": 0, "t1_velocity": 0, "t1_enabled": 0, "t2_velocity": 0, "t2_enabled": 0, "t3_velocity": 0, "t3_enabled": 0, "t4_velocity": 0, "t4_enabled": 0, "t5_velocity": 0, "t5_enabled": 0, "pdb_temp": 21.462402343749996}

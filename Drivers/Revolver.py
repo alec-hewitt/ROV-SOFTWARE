@@ -15,18 +15,17 @@ class Revolver:
         :param bus:
         """
         self.logger = logging.getLogger(__name__)
-        self.logger.info('hello revolver')
         self.address = address
         self.bus = bus
         # motor parameters
         self.motor_enabled = 0
         self.motor_brake_enabled = 0
         self.set_velocity = 0
+        self.velocity = 0
         # rov parameters
         self.position = position
         # protected variables
         self._max_velocity = 4000
-
         self.motor_awake = 0
 
     def set_max_velocity(self, new_maximum: int):
@@ -40,17 +39,17 @@ class Revolver:
         self.motor_enabled = 1
         if(self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)):
             self.motor_awake = 1
-            print("Motor {} enabled.".format(self.position))
+            self.logger.info("Thruster {} enabled.".format(self.position))
         else:
-            print("Unable to enable motor {}".format(self.position))
+            self.logger.error("Unable to enable thruster {}".format(self.position))
 
     def disable_motor(self):
         self.motor_enabled = 0
         if(self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)):
             self.motor_awake = 0
-            print("Motor {} disabled.".format(self.position))
+            self.logger.info("Motor {} disabled.".format(self.position))
         else:
-            print("Unable to disable motor {}".format(self.position))
+            self.logger.error("Unable to disable motor {}".format(self.position))
 
     def set_speed(self, velocity_to_set: float) -> bool:
         if self.motor_enabled and self.motor_brake_enabled == 0 and self.motor_awake == 1:
@@ -58,7 +57,7 @@ class Revolver:
                 if math.fabs(velocity_to_set) <= self._max_velocity:
                     self.set_velocity = int(velocity_to_set)
             except ValueError:
-                self.logger.error("Invalid velocity type")
+                self.logger.error("Invalid velocity type: {}".format(velocity_to_set))
                 return 0
 
             self._send_mc_payload(
@@ -66,11 +65,10 @@ class Revolver:
                 enable_cmd=self.motor_enabled,
                 brake_cmd=self.motor_brake_enabled
             )
-            print("Motor {} set speed to {} success.".format(self.position, velocity_to_set))
+            self.logger.debug("Motor {} set speed to {} success.".format(self.position, velocity_to_set))
             return 1
         else:
             self.logger.error("Cannot set speed. Motor {} is disabled or in brake mode.".format(self.position))
-            print("Cannot set speed. Motor {} is disabled or in brake mode.".format(self.position))
             return 0
 
     def engage_brake_motor(self):
@@ -81,8 +79,12 @@ class Revolver:
         self.motor_brake_enabled = 0
         self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)
 
-    def _send_mc_payload(self, velocity: int, enable_cmd: int, brake_cmd: int) -> bool:
+    def command_speed(self, speed) -> bool:
+        # speed input is a float between -1 and 1
+        set_spd = self._max_velocity * speed
+        return self.set_speed(speed)
 
+    def _send_mc_payload(self, velocity: int, enable_cmd: int, brake_cmd: int) -> bool:
         # compile velocity bytes
         velocity_bytes = bytearray(int(math.fabs(velocity)).to_bytes(2, 'big'))
         # set direction bit
@@ -101,8 +103,7 @@ class Revolver:
         mc_payload = [command_byte, velocity_bytes[0], velocity_bytes[1], peripheral_command_byte]
         return self.bus.write_bytes(addr=self.address, offset=0, payload=mc_payload)
 
-    def check_status(self) -> list:
-        return self.get_mc_status([0])  # awake bit
-
     def get_mc_status(self) -> list:
-        return self.bus.read_bytes(addr=self.address, register=0, num_bytes=8)
+        # status of 1 is online
+        status = self.bus.read_bytes(addr=self.address, register=0, num_bytes=8)
+        return (status[0] & 0x00000001)

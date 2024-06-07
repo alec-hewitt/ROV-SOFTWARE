@@ -1,0 +1,1367 @@
+INFO:__main__:Started logger
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Interfaces.Surface:Attemping to bind to client
+INFO:Interfaces.TCP:Connected by ('192.168.1.9', 50318)
+INFO:Interfaces.Surface:Done bind to client
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Motor 1 disabled.
+INFO:Drivers.Revolver:Motor 2 disabled.
+INFO:Drivers.Revolver:Motor 3 disabled.
+INFO:Drivers.Revolver:Motor 4 disabled.
+INFO:Drivers.Revolver:Motor 5 disabled.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 0 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 1 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 2 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 3 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 4 is disabled or in brake mode.
+ERROR:Drivers.Revolver:Cannot set speed. Motor 5 is disabled or in brake mode.
+INFO:__main__:Started logger
+INFO:Interfaces.i2cbus:hello i2c bus
+INFO:Interfaces.Surface:Attemping to bind to client
+INFO:Interfaces.TCP:Connected by ('192.168.1.9', 50320)
+INFO:Interfaces.Surface:Done bind to client
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+ERROR:__main__:CRITICAL EXCEPTION IN MAIN: 'NoneType' object has no attribute 'decode'
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
+INFO:Drivers.Revolver:Thruster 3 enabled.
+INFO:Drivers.Revolver:Thruster 4 enabled.
+INFO:Drivers.Revolver:Thruster 5 enabled.
+INFO:Drivers.Revolver:Thruster 0 enabled.
+INFO:Drivers.Revolver:Thruster 1 enabled.
+INFO:Drivers.Revolver:Thruster 2 enabled.
