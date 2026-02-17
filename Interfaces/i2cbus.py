@@ -1,4 +1,4 @@
-import smbus
+import smbus2 as smbus
 import logging
 
 
@@ -33,10 +33,12 @@ class I2cBus:
         Returns: (bool) True if write successful, False otherwise
         """
         try:
+            self.logger.debug(f"📝 Writing byte 0x{byte:02x} to address 0x{addr:02x}")
             self.bus.write_byte(addr, byte)
+            self.logger.debug(f"✅ Successfully wrote byte 0x{byte:02x} to address 0x{addr:02x}")
             return True
         except Exception as err:
-            self.logger.error(err)
+            self.logger.error(f"❌ Failed to write byte 0x{byte:02x} to address 0x{addr:02x}: {err}")
             return False
 
     def write_bytes(self, addr: int, offset: int, payload: list) -> bool:
@@ -72,9 +74,7 @@ class I2cBus:
         """
         try:
             p = self.bus.read_i2c_block_data(addr, register, num_bytes)
-            print(p)
             return p
         except Exception as err:
-            print(err)
-            self.logger.error(err)
-            return []
+            self.logger.error(f"❌ Failed to read from address 0x{addr:02x}, register 0x{register:02x}: {err}")
+            raise err

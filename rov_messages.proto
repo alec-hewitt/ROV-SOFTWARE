@@ -1,0 +1,75 @@
+syntax = "proto3";
+
+package rov;
+
+// Heartbeat message from ROV to surface
+message Heartbeat {
+  // Error codes
+  enum ErrorCode {
+    NO_ERROR = 0;
+    THRUSTER_COMMAND_ERROR = 1;
+    MOTOR_NOT_SPECIFIED = 2;
+    VALUE_INVALID = 3;
+  }
+
+  ErrorCode surface_error = 1;
+  float battery_voltage = 2;
+  float temperature = 3;
+  repeated ThrusterStatus thrusters = 4;
+  repeated PDBBusStatus pdb_stati = 9;
+  float pdb_temperature = 5;
+
+  uint64 timestamp = 6;  // Unix timestamp in milliseconds
+}
+
+// Individual thruster status
+message PDBBusStatus {
+  uint32 id = 1;           // Bus ID (1-9)
+  bool enabled = 3;         // Whether bus is enabled
+  float bus_current = 2;       // Bus current (Amps)
+}
+
+// Individual thruster status
+message ThrusterStatus {
+  uint32 id = 1;           // Thruster ID (0-5)
+  float velocity = 2;       // Current velocity (-1.0 to 1.0)
+  bool enabled = 3;         // Whether thruster is enabled
+  float current = 4;        // Current draw (amps)
+  float temperature = 5;    // Thruster temperature
+}
+
+// Control message from surface to ROV
+message ControlMessage {
+  bool run = 1;                    // Enable/disable ROV
+  repeated ThrusterCommand thrusters = 2;  // Individual thruster commands
+  bool lights_on = 3;              // Light control
+  float camera_pan = 4;            // Camera pan (-1.0 to 1.0)
+  float camera_tilt = 5;           // Camera tilt (-1.0 to 1.0)
+  uint64 timestamp = 6;            // Unix timestamp in milliseconds
+}
+
+// Heartbeat request message from surface to ROV
+message HeartbeatRequest {
+  bool request_heartbeat = 1;      // Request heartbeat
+}
+
+// Individual thruster command
+message ThrusterCommand {
+  uint32 id = 1;           // Thruster ID (0-5)
+  float velocity = 2;       // Target velocity (-1.0 to 1.0)
+  bool enabled = 3;         // Enable/disable this thruster
+}
+
+// Network message wrapper
+message NetworkMessage {
+  enum MessageType {
+    HEARTBEAT = 0;
+    HEARTBEAT_REQUEST = 1;
+    CONTROL = 2;
+    ERROR = 3;
+    ACK = 4;
+  }
+
+  MessageType type = 1;
+  bytes payload = 2;           // Serialized message
+}

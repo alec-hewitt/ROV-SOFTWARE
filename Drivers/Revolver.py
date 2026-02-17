@@ -36,20 +36,28 @@ class Revolver:
             self.logger.error("Invalid velocity type")
 
     def enable_motor(self):
-        self.motor_enabled = 1
-        if(self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)):
-            self.motor_awake = 1
-            self.logger.info("Thruster {} enabled.".format(self.position))
-        else:
-            self.logger.error("Unable to enable thruster {}".format(self.position))
+        try:
+            self.logger.debug(f"🔧 Enabling thruster {self.position} at address 0x{self.address:02x}")
+            self.motor_enabled = 1
+            if(self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)):
+                self.motor_awake = 1
+                self.logger.info(f"✅ Thruster {self.position} enabled successfully")
+            else:
+                self.logger.error(f"❌ Failed to enable thruster {self.position}")
+        except Exception as e:
+            self.logger.error(f"❌ Exception enabling thruster {self.position}: {e}")
 
     def disable_motor(self):
-        self.motor_enabled = 0
-        if(self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)):
-            self.motor_awake = 0
-            self.logger.info("Motor {} disabled.".format(self.position))
-        else:
-            self.logger.error("Unable to disable motor {}".format(self.position))
+        try:
+            self.logger.debug(f"🔧 Disabling thruster {self.position} at address 0x{self.address:02x}")
+            self.motor_enabled = 0
+            if(self._send_mc_payload(velocity=0, enable_cmd=self.motor_enabled, brake_cmd=self.motor_brake_enabled)):
+                self.motor_awake = 0
+                self.logger.info(f"✅ Thruster {self.position} disabled successfully")
+            else:
+                self.logger.error(f"❌ Failed to disable thruster {self.position}")
+        except Exception as e:
+            self.logger.error(f"❌ Exception disabling thruster {self.position}: {e}")
 
     def set_speed(self, velocity_to_set: float) -> bool:
         if self.motor_enabled and self.motor_brake_enabled == 0 and self.motor_awake == 1:
@@ -68,7 +76,7 @@ class Revolver:
             self.logger.debug("Motor {} set speed to {} success.".format(self.position, velocity_to_set))
             return 1
         else:
-            self.logger.error("Cannot set speed. Motor {} is disabled or in brake mode.".format(self.position))
+            self.logger.warning("Cannot set speed. Motor {} is disabled or in brake mode.".format(self.position))
             return 0
 
     def engage_brake_motor(self):

@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  rov-software:
+    # Use pre-built image (built on laptop and copied to Pi)
+    image: rov-software:latest
+    container_name: rov-software
+    restart: unless-stopped
+    privileged: true  # Required for I2C and hardware access
+    devices:
+      - /dev/i2c-1:/dev/i2c-1  # I2C bus access
+      - /dev/i2c-2:/dev/i2c-2  # Additional I2C bus if needed
+    volumes:
+      - ./logging:/app/logging  # Persist logs
+      - ./config:/app/config    # Configuration files (if any)
+      - /dev:/dev               # Full device access for I2C
+    environment:
+      - PYTHONPATH=/app
+      - PYTHONUNBUFFERED=1
+    networks:
+      - rov-network
+    ports:
+      - "65432:65432"  # Surface communication port
+    cap_add:
+      - SYS_RAWIO  # For hardware access
+    security_opt:
+      - seccomp:unconfined  # May be needed for some hardware operations
+
+networks:
+  rov-network:
+    driver: bridge

@@ -1,0 +1,6 @@
+# Use specific versions that have pre-built wheels
+smbus2==0.4.3
+pyserial==3.5
+numpy==1.21.6
+protobuf==4.25.8
+# Note: smbus is a system module, not a pip package
